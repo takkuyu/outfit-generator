@@ -5,7 +5,6 @@ const Clothing = () => {
 
     return (
         <div className="clothing-container">
-            <h1>Hello world</h1>
         </div>
     );
 }
